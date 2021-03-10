@@ -1,6 +1,6 @@
 
 
-Coding and algorithm practice from coderbyte.com.
+## Algorithm practice problems from coderbyte.com.
 
 The purpose of this repository is to practice different areas of development. These include:
 
@@ -9,7 +9,7 @@ The purpose of this repository is to practice different areas of development. Th
 -   Git version control
 -   Unit testing with Jest
 
-## How to run the unit tests
+## How to run unit tests
 
 1) npm install (jest)
 2) npm test
