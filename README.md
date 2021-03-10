@@ -2,19 +2,17 @@
 
 Coding and algorithm practice from coderbyte.com.
 
-The purpose of this repository is to practice integrating several elements of software development. These include, but are not limited to:
+The purpose of this repository is to practice different areas of development. These include:
 
--   Algorithms implementation
--   Git workflow
--   Writing unit tests using Jest
+-   Algorithm implementation
+-   Problem-solving
+-   Git version control
+-   Unit testing with Jest
 
 ## How to run the unit tests
 
-1.  Clone this repo
-
-2.  npm install (jest)
-
-3.  npm test
+1) npm install (jest)
+2) npm test
 
 
 
