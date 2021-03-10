@@ -15,5 +15,7 @@ The purpose of this repository is to practice different areas of development. Th
 2) npm install (jest)
 3) npm test
 
+Original repo created by bradhanson.
+
 
 
