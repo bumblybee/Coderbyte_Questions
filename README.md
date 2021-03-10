@@ -11,8 +11,9 @@ The purpose of this repository is to practice different areas of development. Th
 
 ## How to run unit tests
 
-1) npm install (jest)
-2) npm test
+1) clone repo
+2) npm install (jest)
+3) npm test
 
 
 
